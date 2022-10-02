@@ -20,7 +20,7 @@ title                    : "Harrison Israel"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Data Visualization 390"
-description              : "A website dedicated to political data visualization, developed in conjunction with the class, Political Data Visualization 390"
+description              : "A website dedicated to political data visualization, developed in conjunction with the class Political Data Visualization 390"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Data Visualization 390"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "A website dedicated to **political data visualization,** developed in conjunction with the class Political Data Visualization 390"
+  location         : "Northwestern University"
+  email            : "harrisonisrael2023@u.northwestern.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
